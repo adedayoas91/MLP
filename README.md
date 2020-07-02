@@ -1,2 +1,2 @@
-# MLP
-This is an attempt to implement multi layer perceptron 
+Neural networks
+My attempts to implement some basic neural network algoriths including linear and logistic regression
